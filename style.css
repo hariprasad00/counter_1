@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display:grid;
+    align-items: center;
+    justify-content: center;
+  }
+  .btn-group .button {
+    background-color: white; 
+    border: 1px solid #a84832;
+    color: #a84832;
+    padding: 15px 32px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    float: left;
+  }
+  .btn-group .button1 {
+    background-color: #debab1; /* Green */
+    border: 1px solid #a84832;
+    color: #a84832;
+    padding: 15px 32px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .btn-group .button2 {
+    background-color: #a84832; /* Green */
+    border: 1px solid #a84832;
+    color: white;
+    padding: 15px 32px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
